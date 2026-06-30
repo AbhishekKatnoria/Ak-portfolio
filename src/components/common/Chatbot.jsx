@@ -9,7 +9,7 @@ import Toast from './Toast';
 const Chatbot = () => {
     const [isOpen, setIsOpen] = useState(false);
     const [messages, setMessages] = useState([
-        { role: 'model', text: 'Salutations. I am the digital reflection of Ayush Guleria. How may I assist your exploration of his work?' }
+        { role: 'model', text: 'Salutations. I am the digital reflection of Abhishek Katnoria. How may I assist your exploration of his work?' }
     ]);
     const [input, setInput] = useState('');
     const [isLoading, setIsLoading] = useState(false);

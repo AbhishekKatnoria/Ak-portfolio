@@ -233,5 +233,5 @@ export const generateResume = () => {
   }
 
   // Save the PDF
-  doc.save('Ayush_Guleria_Resume.pdf');
+  doc.save('Abhishek_Katnoria_Resume.pdf');
 };
