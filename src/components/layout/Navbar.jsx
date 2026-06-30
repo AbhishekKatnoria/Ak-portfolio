@@ -125,7 +125,7 @@ const Navbar = ({ weatherType, setWeatherType }) => {
                   window.scrollTo({ top: 0, behavior: 'smooth' });
                 }}
               >
-                <span className="text-white">AG</span>
+                <span className="text-white">AK</span>
                 <span style={{ color: 'var(--primary-accent)' }}>.</span>
               </motion.div>
             </Magnetic>
